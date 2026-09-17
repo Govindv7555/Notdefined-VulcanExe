@@ -1,6 +1,6 @@
 # Notdefined-VulcanExe
 
-32-hour hackathon · 3-person team · Govind, sidhu, Denny
+32-hour hackathon · 3-person team · Govind, Sidhu, Denny
 
 ## What we're building
 
